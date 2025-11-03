@@ -1,0 +1,13 @@
+com\example\gestiondossiersmedicaux\entities\Consultation.class
+com\example\gestiondossiersmedicaux\repositories\ConsultationRepository.class
+com\example\gestiondossiersmedicaux\repositories\DossierMedicalRepository.class
+com\example\gestiondossiersmedicaux\repositories\UserRepository.class
+com\example\gestiondossiersmedicaux\controllers\UserController.class
+com\example\medicaux\MedicauxApplication.class
+com\example\gestiondossiersmedicaux\controllers\ConsultationController.class
+com\example\gestiondossiersmedicaux\services\UserService.class
+com\example\gestiondossiersmedicaux\controllers\DossierMedicalController.class
+com\example\gestiondossiersmedicaux\entities\DossierMedical.class
+com\example\gestiondossiersmedicaux\entities\User.class
+com\example\gestiondossiersmedicaux\services\ConsultationService.class
+com\example\gestiondossiersmedicaux\services\DossierMedicalService.class
